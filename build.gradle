@@ -4,7 +4,7 @@ plugins {
 	id 'io.spring.dependency-management' version '1.1.2'
 }
 
-group = 'me.dio'
+group = 'bia.dio.devweeksantander'
 version = '0.0.1-SNAPSHOT'
 
 java {
@@ -28,7 +28,7 @@ dependencies {
 
 tasks.jar {
 	manifest {
-		attributes["Main-Class"] = "me.dio.Application"
+		attributes["Main-Class"] = "bia.dio.devweeksantander.Application"
 	}
 }
 
