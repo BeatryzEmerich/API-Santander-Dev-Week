@@ -1,0 +1,25 @@
+{
+  "name": "Bia",
+  "account": {
+    "accountNumber": "39012839-0",
+    "accountAgency": "0000",
+    "accountBalance": 1233.63,
+    "accountLimit": 1000.00
+  },
+  "features": [
+    {
+      "icon": "URL",
+      "description": "PIX"
+    }
+  ],
+  "card": {
+    "number": "xxxx xxxx xxxx 0000",
+    "limit": 1000.00
+  },
+  "news": [
+    {
+      "icon": "URL",
+      "description": "O Santander tem soluções de crédito sob medida pra você."
+    }
+  ]
+}
